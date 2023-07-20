@@ -10,7 +10,7 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
-        "jchedev/laravel-evolved": "dev-master"
+        "jchedev/jaravel-evolved": "dev-master"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
@@ -24,7 +24,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Jchedev/laravel-evolved"
+            "url": "https://github.com/Jchedev/jaravel-evolved"
         }
     ],
     "autoload": {
