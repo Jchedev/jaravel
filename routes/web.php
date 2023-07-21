@@ -27,6 +27,4 @@ Route::get('/not-found', [Controller::class, 'notFound']);
 /*
  * Homepage of the application
  */
-Route::get('/', function () {
-    return view('home');
-});
+Route::view('/', 'home');
